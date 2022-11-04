@@ -1,0 +1,45 @@
+﻿{
+  "Stocks": [
+    {
+      "shareName": "IRCTC",
+      "sharePrice": 780,
+      "numberOfShare": 25
+    },
+
+    {
+      "shareName": "Latentview",
+      "sharePrice": 600,
+      "numberOfShare": 50
+    },
+
+    {
+      "shareName": "AdaniPort",
+      "sharePrice": 850,
+      "numberOfShare": 30
+    },
+    {
+      "shareName": "DMART",
+      "sharePrice": 4500,
+      "numberOfShare": 28
+    },
+
+    {
+      "shareName": "TataMotors",
+      "sharePrice": 390,
+      "numberOfShare": 60
+    },
+
+    {
+      "shareName": "YesBank",
+      "sharePrice": 17,
+      "numberOfShare": 250
+    },
+
+    {
+      "shareName": "AuroPharma",
+      "sharePrice": 560,
+      "numberOfShare": 24
+    }
+
+  ]
+}
